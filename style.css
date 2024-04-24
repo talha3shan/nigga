@@ -11,7 +11,7 @@ body, html {
 
 .container {
     text-align: center;
-    padding: 20px;
+    padding: 20px; /* Add padding to center the content */
     background-color: #F8BBD0; /* Cute light pink background */
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);
